@@ -1,7 +1,12 @@
 # Pussa Refrigeração — HTML estático
 
 Versão sem React/Vite.
+Site convertido para HTML + CSS + JavaScript puro.
 
-Para GitHub Pages, publique estes arquivos na raiz do repositório e selecione **Deploy from a branch** em Settings > Pages, usando a branch main e a pasta / (root).
+Arquivos:
 
-O arquivo `index.html` já funciona sem etapa de build.
+index.html
+style.css
+script.js
+
+Acesso em pussarefrigeracao.com
